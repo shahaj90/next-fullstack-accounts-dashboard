@@ -15,7 +15,7 @@ The application is a simple dashboard that displays a list of customers and thei
 To get started with the application, clone the repository:
 
 ```bash
-git clone https://github.com/your-username/nextjs-full-stack-accounts-dashboard.git
+git clone https://github.com/shahaj90/nextjs-fullstack-accounts-dashboard.git
 ```
 
 To start the application, you need to have PostgreSQL installed on your machine. You can then run the following commands:
