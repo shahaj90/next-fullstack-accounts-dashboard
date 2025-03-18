@@ -1,4 +1,4 @@
-# Next.js Full Stack Dashboard
+# Next.js Full Stack Accounts Dashboard
 
 This is a full-stack Next.js application featuring a dashboard with authentication, authorization, and a database. It is built with the following technologies:
 
